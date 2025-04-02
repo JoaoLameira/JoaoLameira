@@ -24,7 +24,7 @@
 
 ### Languages and Tools:
 
-![Next](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg)
+![Next](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg =30x30)
 
 ---
 
