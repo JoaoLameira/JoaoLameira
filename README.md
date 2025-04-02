@@ -1,7 +1,9 @@
 # Hi there, I'm João Lameira 👋
 
-🚀 **Software Engineer** @ [xgeeks](https://xgeeks.com)  
-💡 Passionate about building clean and scalable applications.  
+🚀 **Software Engineer** @ [xgeeks](https://xgeeks.com)
+
+💡 Passionate about building clean and scalable applications.
+
 📌 Focused on:
 
 - React
@@ -20,7 +22,13 @@
 
 ---
 
-## 📊 Stats
+### Languages and Tools:
+
+![Next](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg)
+
+---
+
+### 📊 Stats
 
 ![Joao's github stats](https://github-readme-stats.vercel.app/api?username=JoaoLameira&count_private=true&show_icons=true&theme=nord&hide=contribs)
 
