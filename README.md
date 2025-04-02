@@ -16,13 +16,12 @@
 ### 📫 Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-lameira)
-
 [![GitHub](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoLameira)
 
 ---
 
-### ⚡ GitHub Stats:
+## 📊 Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoLameira&theme=default&hide_border=true)
+![Joao's github stats](https://github-readme-stats.vercel.app/api?username=JoaoLameira&count_private=true&show_icons=true&theme=nord&hide=contribs)
 
 ---
